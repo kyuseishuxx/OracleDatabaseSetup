@@ -134,8 +134,8 @@ PRIMARY SITE (RAC CLUSTER)                  DISASTER RECOVERY SITE
 ### Investment Summary
 | Solution | Professional Services | Hardware Required | Timeline |
 |----------|----------------------|-------------------|----------|
-| **Data Guard Only** | ₱125,000 | 2 servers | 5 days |
-| **RAC + Data Guard** | ₱275,000 | 3 servers + storage | 10 days |
+| **Data Guard Only** | To be discussed | 2 servers | 5 days |
+| **RAC + Data Guard** | To be discussed | 3 servers + storage | 10 days |
 
 ---
 
