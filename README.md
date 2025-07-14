@@ -1,5 +1,6 @@
 
-![Uploading dataguard.png…]()
+<img width="1430" height="1032" alt="dataguard" src="https://github.com/user-attachments/assets/71005ab2-6387-44b1-87d4-74fff1bd4de3" />
+
 
 # Oracle Data Guard Implementation Plan
 
