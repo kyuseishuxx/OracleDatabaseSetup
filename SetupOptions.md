@@ -229,7 +229,6 @@ PRIMARY SITE (RAC CLUSTER)                  DISASTER RECOVERY SITE
 - Shared storage system (SAN/NAS)
 - High-speed interconnect network for RAC
 - Network connectivity for disaster recovery site
-- Oracle Database Enterprise Edition + RAC licensing
 
 ---
 
