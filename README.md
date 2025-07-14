@@ -1,3 +1,6 @@
+
+![Uploading dataguard.png…]()
+
 # Oracle Data Guard Implementation Plan
 
 ## What This Document Is About
