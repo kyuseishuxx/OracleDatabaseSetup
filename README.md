@@ -164,7 +164,7 @@ This plan explains how we will set up automatic backup protection for your Oracl
 
 **After**: If your database server fails, backup takes over automatically in 30 seconds
 
-**Investment**: ₱125,000 one-time cost
+**Investment**: ₱50,000 one-time cost
 
 **Value**: Protection against potentially millions in lost business from downtime
 
